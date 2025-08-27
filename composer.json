@@ -1,0 +1,20 @@
+{
+    "name": "rohitchauhan/odds-compare",
+    "description": "WordPress odds comparison plugin",
+    "type": "wordpress-plugin",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Rohitchauhan\\OddsCompare\\": "src/"
+        }
+    },
+    
+    "authors": [
+        {
+            "name": "rohitstar",
+            "email": "rohitchauhan140398@gmail.com"
+        }
+    ]
+}
